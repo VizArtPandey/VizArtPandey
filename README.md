@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=flat&color=0d1117&height=200&section=header&text=Rajeev%20Ranjan%20Pandey&fontSize=42&fontColor=f97316&fontAlignY=45&desc=AI%20%26%20Data%20Engineering%20%7C%20MS%20Artificial%20Intelligence&descSize=18&descAlignY=65&descColor=ffffff" />
+<!-- Local Premium Header Banner -->
+<img width="100%" src="rajeev_profile_banner.png" alt="Rajeev Ranjan Pandey Header" />
+
+<br/>
+
+<h1 align="center">Rajeev Ranjan Pandey</h1>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=55&lines=Senior+Manager+%7C+AI+%26+Data+Governance;MS+Artificial+Intelligence+%40+CUD+Dubai;LLMs+%7C+Smart+Mobility+%7C+Cloud+Platforms;Building+Real-World+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=55&lines=Senior+Manager+%7C+AI+%26+Data+Governance;MS+Artificial+Intelligence+%40+CUD+Dubai;LLMs+%7C+Smart+Mobility+%7C+Cloud+Platforms;Building+Real-World+AI+Systems" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
@@ -14,7 +18,7 @@
   <img src="https://img.shields.io/github/followers/VizArtPandey?label=Follow&style=for-the-badge&logo=github&color=f97316&labelColor=0d1117" />
 </a>
 <a href="https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI">
-  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-f97316?style=for-the-badge&labelColor=0d1117" alt="HuggingFace Space" />
+  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-f97316?style=for-the-badge&labelColor=0d1117" alt="HuggingFace Project" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=VizArtPandey&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
 
@@ -30,7 +34,7 @@
 
 I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics, and AI-driven systems**, with **20+ years of experience** across financial services, transportation, and enterprise technology.
 
-Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadian University Dubai](https://www.cud.ac.ae/), with active research on data center optimization and smart mobility.
+Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadian University Dubai](https://www.cud.ac.ae/).
 
 ---
 
@@ -43,24 +47,21 @@ Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadi
 
 </div>
 
-- **Notebook LM Scrub:** Advanced utility for cleaning and processing Notebook LM outputs.
-- **Dataflow:** Real-time data pipeline visualization and management dashboard.
-
 ---
 
 ## ⭐ Featured Project — Traffic Incident Summarization
 
 <div align="center">
 
-[![Traffic AI Demo](https://img.shields.io/badge/🚦%20Live%20Demo-HuggingFace%20Project-f97316?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI)
+[![Traffic AI Demo](https://img.shields.io/badge/🚦%20Live%20Project-HuggingFace-f97316?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Source%20Code-white?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/VizArtPandey/CUD_AAI_MINIPROJECT_LLMs-for-Traffic-Incident-Summarization)
 
 </div>
 
 **Key Highlights:**
 - 🤖 **Models:** BART-Large-CNN · Flan-T5 · PEGASUS · TextRank 
-- 📊 **Metric Benchmarking:** ROUGE scores compared across GCC + US datasets.
-- 🖥️ **Full-Stack:** FastAPI backend serving React frontend as a unified Docker container.
+- 📈 **Performance:** Comparison of Extractive vs Abstractive summarization on real-world incident datasets.
+- 🐳 **Infrastructure:** Unified container hosting React + FastAPI on Hugging Face.
 
 ---
 
@@ -111,9 +112,6 @@ flowchart LR
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:1a2a4a,100:0d1117&height=120&section=footer" />
 
 *Built with ❤️ in Dubai • MS AI @ Canadian University Dubai*
 
