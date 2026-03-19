@@ -55,13 +55,12 @@
 
 | Company | Role | Duration |
 | :--- | :--- | :--- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emirates_NBD_Logo.svg/512px-Emirates_NBD_Logo.svg.png" width="24" /> **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_Logo.svg/512px-AirAsia_Logo.svg.png" width="24" /> **AirAsia** | Technical Lead | Sep 2021 — Sep 2024 |
-| | Senior Data Specialist | Feb 2020 — Sep 2021 |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/State_Street_logo.svg/512px-State_Street_logo.svg.png" width="24" /> **State Street** | Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/UnitedHealth_Group_logo.svg/512px-UnitedHealth_Group_logo.svg.png" width="24" /> **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deloitte.svg/512px-Deloitte.svg.png" width="24" /> **Deloitte** | IT Business Analyst | Feb 2016 — Mar 2017 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/512px-Tata_Consultancy_Services_Logo.svg.png" width="24" /> **TCS** | System Engineer | Jan 2013 — Feb 2016 |
+| <img src="https://logos-world.net/wp-content/uploads/2023/04/Emirates-NBD-Logo-500x281.png" width="30" height="auto" /> **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
+| <img src="https://www.vectorlogo.zone/logos/airasia/airasia-icon.svg" width="22" /> **AirAsia** | Technical Lead | Feb 2020 — Sep 2024 |
+| <img src="https://www.vectorlogo.zone/logos/statestreet/statestreet-icon.svg" width="22" /> **State Street** | Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/UnitedHealth_Group_logo.svg" width="22" /> **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
+| <img src="https://www.vectorlogo.zone/logos/deloitte/deloitte-icon.svg" width="22" /> **Deloitte** | IT Business Analyst | Feb 2016 — Mar 2017 |
+| <img src="https://www.vectorlogo.zone/logos/tata/tata-icon.svg" width="22" /> **TCS** | System Engineer | Jan 2013 — Feb 2016 |
 
 ---
 
