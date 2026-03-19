@@ -1,28 +1,33 @@
 <div align="center">
 
-<!-- Local Premium Header Banner -->
-<img width="100%" src="rajeev_profile_banner.png" alt="Rajeev Ranjan Pandey Header" />
-
-<br/>
+<!-- Premium Wide Header Banner -->
+<img width="100%" src="rajeev_banner_v2.png" alt="Rajeev Ranjan Pandey Header" style="border-radius: 12px; margin-bottom: 20px" />
 
 <h1 align="center">Rajeev Ranjan Pandey</h1>
 
-<!-- Typing SVG -->
+<!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=55&lines=Senior+Manager+%7C+AI+%26+Data+Governance;MS+Artificial+Intelligence+%40+CUD+Dubai;LLMs+%7C+Smart+Mobility+%7C+Cloud+Platforms;Building+Real-World+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=800&height=55&lines=Senior+Manager+%7C+Data+Governance+%26+AI;3X+Tableau+Zen+Master+%7C+5X+Ambassador;MS+Artificial+Intelligence+%40+CUD+Dubai;Building+Real+World+AI+Systems+Since+2004" alt="Typing SVG" />
 </a>
 
-<!-- Social Badges -->
+<!-- Social & Social Badges Panel -->
+<div align="center">
+  <a href="https://github.com/VizArtPandey">
+    <img src="https://img.shields.io/github/followers/VizArtPandey?label=Follow&style=for-the-badge&logo=github&color=f97316&labelColor=0d1117" />
+  </a>
+  <a href="https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-f97316?style=for-the-badge&labelColor=0d1117" alt="HuggingFace Space" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajeevrpandey">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajeev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rajvivan">
+    <img src="https://img.shields.io/badge/Twitter-@rajvivan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VizArtPandey&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
+</div>
+
 <br/>
-<a href="https://github.com/VizArtPandey">
-  <img src="https://img.shields.io/github/followers/VizArtPandey?label=Follow&style=for-the-badge&logo=github&color=f97316&labelColor=0d1117" />
-</a>
-<a href="https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI">
-  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-f97316?style=for-the-badge&labelColor=0d1117" alt="HuggingFace Project" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=VizArtPandey&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
-
-<br/><br/>
 
 </div>
 
@@ -32,18 +37,24 @@
 
 > *"I build real-world AI systems that turn complex data into clarity — at the intersection of intelligent automation, cloud engineering, and domain expertise."*
 
-I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics, and AI-driven systems**, with **20+ years of experience** across financial services, transportation, and enterprise technology.
+I am a **Senior Manager at Emirates NBD**, specializing in **Data Governance, Advanced Analytics, and AI-driven systems** with **20+ years of experience** across financial services, transportation, and enterprise technology.
 
 Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadian University Dubai](https://www.cud.ac.ae/).
 
+- 🏆 **3X Tableau Zen Master** — One of the most exclusive global Tableau recognitions.
+- 🌟 **5X Tableau Ambassador** — Recognized thought leader in the global Tableau community.
+- ✍️ **Tableau Featured Author** — Dedicated to storytelling and insight through data visualization.
+- 🤖 Building robust AI solutions combining LLMs, cloud platforms, and financial data governance.
+
 ---
 
-## 🚀 Live Vercel Deployments
+## 🚀 Live Deployments
 
 <div align="center">
 
-[![Notebook LM Scrub](https://img.shields.io/badge/📓%20Notebook%20LM%20Scrub-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://notebook-lm-scrub.vercel.app/)
-[![Dataflow](https://img.shields.io/badge/🌊%20Dataflow-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://dataflow-iota.vercel.app/)
+| 🚦 Traffic AI System | 📓 Notebook LM Scrub | 🌊 Dataflow Dashboard |
+|:---:|:---:|:---:|
+| [![Live on HF](https://img.shields.io/badge/Live-HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI) | [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge&logo=vercel)](https://notebook-lm-scrub.vercel.app/) | [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge&logo=vercel)](https://dataflow-iota.vercel.app/) |
 
 </div>
 
@@ -53,35 +64,22 @@ Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadi
 
 <div align="center">
 
-[![Traffic AI Demo](https://img.shields.io/badge/🚦%20Live%20Project-HuggingFace-f97316?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Source%20Code-white?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/VizArtPandey/CUD_AAI_MINIPROJECT_LLMs-for-Traffic-Incident-Summarization)
+[![Traffic AI Repo](https://img.shields.io/badge/Source%20Code-GitHub-333?style=for-the-badge&logo=github)](https://github.com/VizArtPandey/CUD_AAI_MINIPROJECT_LLMs-for-Traffic-Incident-Summarization)
 
 </div>
 
-**Key Highlights:**
-- 🤖 **Models:** BART-Large-CNN · Flan-T5 · PEGASUS · TextRank 
-- 📈 **Performance:** Comparison of Extractive vs Abstractive summarization on real-world incident datasets.
-- 🐳 **Infrastructure:** Unified container hosting React + FastAPI on Hugging Face.
+**Project Overview:**
+AI-powered system converting traffic incident reports into concise summaries using **BART, Flan-T5, and PEGASUS** models. Analyzes real-world GCC narrative and US accident datasets with side-by-side performance metrics.
 
 ---
 
-## 🏗️ System Architecture
+## 🔭 Current Focus & Focus Areas
 
-```mermaid
-flowchart LR
-    A["📂 Traffic Incident Data\n(GCC + US)"] --> B["⚙️ Preprocessing\n& Normalization"]
-    B --> C["📌 Extractive\nTextRank"]
-    B --> D["🧠 Transformer Models\nBART · Flan-T5 · PEGASUS"]
-    C --> E["📏 Evaluation Engine\nROUGE · Compression Ratio"]
-    D --> E
-    E --> F["📊 Metrics & Analysis\nBenchmark Reports"]
-    D --> G["⚡ FastAPI Backend\nREST API"]
-    G --> H["🖥️ React UI Dashboard\nLive Demo"]
-
-    style A fill:#1a2a4a,color:#fff,stroke:#f97316
-    style D fill:#1a2a4a,color:#fff,stroke:#f97316
-    style H fill:#f97316,color:#fff,stroke:#f97316
-```
+| Project | Focus Area | Status |
+|---|---|---|
+| 🚦 **Traffic AI v2** | Fine-tuning domain-specific LLMs | ✅ Live |
+| 📘 **MS AI Thesis** | Thermal Prediction + Intelligent Optimization | 🔬 Research |
+| 🧪 **DE FlowForge** | Robust Data Pipeline Orchestration | 🚧 Dev |
 
 ---
 
@@ -89,23 +87,29 @@ flowchart LR
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI_&_Machine_Learning-PyTorch_|_TensorFlow_|_HuggingFace-f97316?style=for-the-badge&labelColor=0d1117)
+![Data](https://img.shields.io/badge/Data_Analytics-Tableau_|_SQL_|_Oracle_|_PowerBI-0A66C2?style=for-the-badge&labelColor=0d1117)
+![Dev](https://img.shields.io/badge/Web_|_Infra-React_|_FastAPI_|_Docker_|_Vercel-333?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Ecosystem
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VizArtPandey&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&border_color=1a2a4a&hide_border=false" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VizArtPandey&layout=compact&theme=dark&bg_color=0d1117&title_color=f97316&text_color=ffffff&border_color=1a2a4a&hide_border=false" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=VizArtPandey&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff&border_color=1a2a4a&hide_border=false" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VizArtPandey&layout=compact&theme=dark&bg_color=0d1117&title_color=f97316&text_color=ffffff&border_color=1a2a4a&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VizArtPandey&theme=dark&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&border=1a2a4a" />
+
+<br/>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/VizArtPandey/VizArtPandey/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -113,6 +117,6 @@ flowchart LR
 
 <div align="center">
 
-*Built with ❤️ in Dubai • MS AI @ Canadian University Dubai*
+Built with ❤️ by Rajeev Pandey in Dubai • MS AI @ Canadian University Dubai
 
 </div>
