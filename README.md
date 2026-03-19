@@ -1,36 +1,72 @@
 <div align="center">
 
-<!-- Premium Wide Header Banner -->
-<img width="100%" src="rajeev_banner_v2.png" alt="Rajeev Ranjan Pandey Header" style="border-radius: 12px" />
-
-<br/>
-
-# Rajeev Ranjan Pandey
-### Senior Manager — AI & Data Governance | 3X Tableau Zen Master | 5X Ambassador
+# 👨‍💻 Rajeev Ranjan Pandey
+### Senior Manager — AI & Data Strategy | 3X Tableau Zen Master | 5X Ambassador
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajeevrpandey"><img src="https://img.shields.io/badge/LinkedIn-Rajeev-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/rajvivan"><img src="https://img.shields.io/badge/Twitter-@rajvivan-1DA1F2?style=flat-square&logo=twitter" /></a>
-  <a href="https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI"><img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-f97316?style=flat-square&logo=huggingface" /></a>
-  <a href="https://github.com/VizArtPandey"><img src="https://img.shields.io/github/followers/VizArtPandey?label=Follow&style=flat-square&logo=github" /></a>
+  <a href="https://rajeevindata.com">
+    <img src="https://img.shields.io/badge/Website-rajeevindata.com-f97316?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajeevrpandey">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajeev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rajvivan">
+    <img src="https://img.shields.io/badge/Twitter-@rajvivan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI">
+    <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </p>
+
+<!-- Professional Intro -->
+> *"Building real-world AI systems & architecting data excellence since 2004."*
+
+---
+
+### ✍️ The Writing Journey (137 Articles)
+*Documenting my expertise across Tableau, Data Engineering, and MS AI research.*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Blogs-137-f97316?style=flat-square&logo=medium" />
+  <img src="https://img.shields.io/badge/Timeline-2019_--_2026-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prolific_Year-2023_(83_Blogs)-success?style=flat-square" />
+</p>
+
+<details>
+<summary>📈 Annual Breakdown (Click to expand)</summary>
+
+| Year | Stories | Key Focus |
+| :--- | :---: | :--- |
+| **2026** | 4 | AI Learning & MS Program |
+| **2024** | 24 | Data Engineering & Cloud |
+| **2023** | 83 | Tableau Visualizations (Expert Series) |
+| **2022** | 1 | Architecture |
+| **2021** | 5 | Docker & Python |
+| **2020** | 10 | D3.js & Figma |
+| **2019** | 10 | Data Fundamentals |
+
+</details>
 
 </div>
 
 ---
 
-### 👤 Executive Summary
+### 💼 Work History
 
-> *A seasoned data leader with over 20 years of experience building bridge-scale AI and Data systems. Combining deep vertical expertise in Financial Services (Emirates NBD) and Smart Mobility with cutting-edge academic research.*
-
-- 🎓 **MS Artificial Intelligence** Candidate @ [Canadian University Dubai](https://www.cud.ac.ae/)
-- 🏆 **3X Tableau Zen Master** & **5X Ambassador** — Recognized among the world's top data visualization experts.
-- 🏗️ **Architect of Intelligence:** Building LLM-powered systems for Traffic Incident Analysis and Financial Governance.
-- 📍 **Based in Dubai, UAE**
+| Company | Role | Duration |
+| :--- | :--- | :--- |
+| <img src="https://logo.clearbit.com/emiratesnbd.com" width="24" /> **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
+| <img src="https://logo.clearbit.com/airasia.com" width="24" /> **AirAsia** | Technical Lead | Sep 2021 — Sep 2024 |
+| | Senior Data Specialist | Feb 2020 — Sep 2021 |
+| <img src="https://logo.clearbit.com/statestreet.com" width="24" /> **State Street** | Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
+| <img src="https://logo.clearbit.com/unitedhealthgroup.com" width="24" /> **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
+| <img src="https://logo.clearbit.com/deloitte.com" width="24" /> **Deloitte** | IT Business Analyst | Feb 2016 — Mar 2017 |
+| <img src="https://logo.clearbit.com/tcs.com" width="24" /> **TCS** | System Engineer | Jan 2013 — Feb 2016 |
 
 ---
 
 ### 🏆 Excellence in Data Visualization
+*Honored as one of the world's leading experts in Data Storytelling.*
 
 <div align="center">
   <img src="https://img.shields.io/badge/3X_Tableau_Zen_Master-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" />
@@ -40,26 +76,16 @@
 
 ---
 
-### 🚀 Live AI & Data Deployments
+### 🛠️ Technical Ecosystem
 
-| Project | Description | Live Link |
-| :--- | :--- | :--- |
-| 🚦 **Traffic AI** | NLP-based incident summarization using BART/Flan-T5 | [**HuggingFace**](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI) |
-| 📓 **NotebookLM Scrub** | Advanced post-processing for AI-generated notebooks | [**Vercel**](https://notebook-lm-scrub.vercel.app/) |
-| 🌊 **Dataflow App** | Real-time orchestration and pipeline dashboard | [**Vercel**](https://dataflow-iota.vercel.app/) |
-
----
-
-### 🛠️ Core Technology Stack
-
-- **AI & ML:** Transformers (NLP), PyTorch, HuggingFace, Scikit-learn, TensorFlow.
-- **Data Engineering:** SQL (Oracle/MySQL), MDM Frameworks, Pipeline Orchestration.
-- **Visualization:** Tableau (Global Expert), Power BI, React-based Dashboards.
-- **Back-End:** Python (FastAPI), Node.js, Docker, GitHub Actions.
+- **Artificial Intelligence:** LLMs (BART, Flan-T5), PyTorch, HuggingFace, Scikit-learn.
+- **Data Engineering:** SQL (Oracle/MySQL), Docker, Pipeline Orchestration.
+- **Creative Tech:** D3.js, Figma, React, D3.js.
+- **Academic Focus:** MS AI Scholar @ Canadian University Dubai.
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 GitHub Status
 
 <div align="center">
 
