@@ -67,14 +67,14 @@ I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics,
 
 <div align="center">
 
-| Company | Role | Duration |
-| :---: | :--- | :--- |
-| <img src="https://logos-world.net/wp-content/uploads/2023/04/Emirates-NBD-Logo-500x281.png" width="30" /> | **Emirates NBD** <br/> Senior Manager, AI & Data Strategy | Sep 2024 — Present |
-| <img src="https://www.vectorlogo.zone/logos/airasia/airasia-icon.svg" width="22" /> | **AirAsia** <br/> Technical Lead | Feb 2020 — Sep 2024 |
-| <img src="https://www.vectorlogo.zone/logos/statestreet/statestreet-icon.svg" width="22" /> | **State Street** <br/> Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/UnitedHealth_Group_logo.svg" width="22" /> | **UnitedHealth Group** <br/> Senior Business Analyst | Mar 2017 — Oct 2018 |
-| <img src="https://www.vectorlogo.zone/logos/deloitte/deloitte-icon.svg" width="22" /> | **Deloitte** <br/> IT Business Analyst | Feb 2016 — Mar 2017 |
-| <img src="https://www.vectorlogo.zone/logos/tata/tata-icon.svg" width="22" /> | **TCS** <br/> System Engineer | Jan 2013 — Feb 2016 |
+| Logo | Company | Designation | Duration |
+| :---: | :--- | :--- | :--- |
+| <img src="logos/emirates.png" width="30" /> | **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
+| <img src="logos/airasia.png" width="30" /> | **AirAsia** | Technical Lead | Feb 2020 — Sep 2024 |
+| <img src="logos/statestreet.png" width="30" /> | **State Street** | Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
+| <img src="logos/unitedhealth.png" width="30" /> | **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
+| <img src="logos/deloitte.png" width="30" /> | **Deloitte** | IT Business Analyst | Feb 2016 — Mar 2017 |
+| <img src="logos/tcs.png" width="30" /> | **TCS** | System Engineer | Jan 2013 — Feb 2016 |
 
 </div>
 
