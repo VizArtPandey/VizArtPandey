@@ -29,7 +29,7 @@
 
 ### 👤 Executive Summary
 
-I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics, and AI-driven systems**, with **20+ years of experience** across financial services, transportation, and enterprise technology. Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadian University Dubai](https://www.cud.ac.ae/).
+I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics, and AI-driven systems**, with **13+ years of experience** across financial services, transportation, and enterprise technology. Currently pursuing a **Master of Science in Artificial Intelligence** at [Canadian University Dubai](https://www.cud.ac.ae/).
 
 #### 🔬 Active Research & Focus Areas:
 - 🏗️ **Data Center Optimization:** Leveraging AI for intelligent workload management and energy efficiency.
