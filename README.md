@@ -80,11 +80,11 @@ I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics,
 
 ---
 
-### ✍️ Publication History (137 Articles)
+### ✍️ Publication History (142 Articles)
 *Documenting expertise across Tableau, Data Engineering, and MS AI research.*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Blogs-137-f97316?style=for-the-badge&logo=medium" />
+  <img src="https://img.shields.io/badge/Total_Blogs-142-f97316?style=for-the-badge&logo=medium" />
   <img src="https://img.shields.io/badge/Timeline-2019_--_2026-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Peak_Output-2023_(83_Blogs)-success?style=for-the-badge" />
 </div>
