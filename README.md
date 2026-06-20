@@ -107,36 +107,15 @@ I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics,
 
 ---
 
-### ⭐ Featured Project — Traffic Incident Summarization
-*Architecting real-time summarization for Smart Mobility environments.*
+### 🚀 Recent Projects
 
-<div align="center">
-
-| Status | Feature | Details |
-| :---: | :--- | :--- |
-| 🚀 | **Live Hosting** | [**View on HuggingFace**](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI) |
-| 🤖 | **Core Models** | BART-Large-CNN · Flan-T5 · PEGASUS · TextRank |
-| 📊 | **Benchmark** | 0.432 ROUGE-1 (35.8% above baseline) |
-| 🗂️ | **Data Reach** | GCC/UAE narratives + 5k US Accident records |
-
-<br/>
-
-#### 🏗️ System Architecture
-```mermaid
-flowchart LR
-    A["📂 Traffic Data"] --> B["⚙️ Preprocessing"]
-    B --> C["📌 Extractive"]
-    B --> D["🧠 Transformers"]
-    C --> E["📏 Evaluation"]
-    D --> E
-    E --> F["📊 Final Analysis"]
-    D --> G["⚡ FastAPI"]
-    G --> H["🖥️ React UI"]
-
-    style A fill:#1a2a4a,color:#fff,stroke:#f97316
-    style D fill:#1a2a4a,color:#fff,stroke:#f97316
-    style H fill:#f97316,color:#fff,stroke:#f97316
-```
+| # | Project | Description | Stack | Link |
+| :- | :--- | :--- | :--- | :--- |
+| 1 | **IRIS — IR Intelligence System** | Fully local multimodal RAG platform for Investor Relations teams. Queries dense financial reports with grounded answers in <50ms via a 3-layer Smart Cache engine. | Python · FastAPI · Next.js · ChromaDB · ColPali · Ollama | [HuggingFace](https://huggingface.co/spaces/rajvivan/iris-ir-platform) |
+| 2 | **Traffic Incident Summarization** | LLM-based real-time traffic incident summarization for Smart Mobility. Benchmarked at 0.432 ROUGE-1 (35.8% above baseline) across GCC/UAE & 5k US accident records. | Python · BART · Flan-T5 · PEGASUS · TextRank · FastAPI | [HuggingFace](https://huggingface.co/spaces/rajvivan/CUD-Traffic-AI) |
+| 3 | **Thermal-Risk-Aware DC Orchestration** | Hybrid RL + thermal heuristic agent for workload scheduling in hot-climate data centers. Reduces energy while preventing thermal violations above 46°C. | Python · Reinforcement Learning · Google/Alibaba traces | Private |
+| 4 | **ML Sentiment Analysis — Social Media** | End-to-end social media sentiment pipeline using RNN-BiLSTM & HuggingFace transformers with a live React dashboard for visualization. | Python · RNN-BiLSTM · HuggingFace · React · Jupyter | [Repo](https://github.com/VizArtPandey/ML-Sentiment-Analysis-Social-Media) |
+| 5 | **DE FlowForge** | Data engineering workflow orchestration layer for building and managing modular pipeline stages in TypeScript. | TypeScript · Node.js | [Repo](https://github.com/VizArtPandey/DE_flowforge) |
 
 </div>
 
