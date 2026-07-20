@@ -51,10 +51,10 @@ I am a **Senior Manager** specializing in **Data Governance, Advanced Analytics,
 
 | Logo | Company | Designation | Duration |
 | :---: | :--- | :--- | :--- |
-| <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/enbd.png" width="40"/> | **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
+| <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/emirates.png" width="40"/> | **Emirates NBD** | Senior Manager, AI & Data Strategy | Sep 2024 — Present |
 | <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/airasia.png" width="40"/> | **AirAsia** | Technical Lead | Feb 2020 — Sep 2024 |
 | <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/statestreet.png" width="40"/> | **State Street** | Assistant Manager / Team Lead | Oct 2018 — Feb 2020 |
-| <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/uhg.png" width="40"/> | **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
+| <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/unitedhealth.png" width="40"/> | **UnitedHealth Group** | Senior Business Analyst | Mar 2017 — Oct 2018 |
 | <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/deloitte.png" width="40"/> | **Deloitte** | IT Business Analyst | Feb 2016 — Mar 2017 |
 | <img src="https://github.com/VizArtPandey/VizArtPandey/raw/master/logos/tcs.png" width="40"/> | **TCS** | System Engineer | Jan 2013 — Feb 2016 |
 
